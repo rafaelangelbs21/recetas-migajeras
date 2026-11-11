@@ -3,8 +3,8 @@
 SPA de exploración y comparación de recetas construida con HTML5, CSS3 y JavaScript Vanilla. Consume la API pública TheMealDB v1 (`1`) sin persistencia local.
 
 ## Integrantes
-- Integrante 1: completar nombre y responsabilidades.
-- Integrante 2: completar nombre y responsabilidades.
+- Integrante 1: Rafael Barroso.
+- Integrante 2: Cristo Cedeño.
 
 ## Ejecutar
 Abrir `index.html` en un navegador moderno con conexión a Internet. No requiere servidor ni proceso de compilación.
